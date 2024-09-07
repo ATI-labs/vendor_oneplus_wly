@@ -1541,9 +1541,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     manifest_oplus_cameraextension_aidl.xml \
-    manifest_oplus_fingerprint.xml \
-    manifest_oplus_sendextcamcmd.xml \
     manifest_oplus_cammidasservice_aidl.xml \
-    oplus-support-wrapper \
-    com.oplus.camera.unit.sdk.adapter \
-    com.oplus.camera.unit.sdk
+    manifest_oplus_fingerprint.xml \
+    manifest_oplus_sendextcamcmd.xml
